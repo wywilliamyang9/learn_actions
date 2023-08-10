@@ -19,7 +19,7 @@ on:
           type: environment
           required: true
   
-  jobs:
+jobs:
     log-the-inputs:
       runs-on: ubuntu-latest
       steps:
